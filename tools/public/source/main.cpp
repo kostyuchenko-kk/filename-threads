@@ -1,8 +1,3 @@
-// THIS FILE IS STUB FOR INPUT AND OUTPUT DATA
-// DO NOT MODIFICATE IT - IT`S PART OF ANOTHER PROJECT
-
-// это файл-заглушка, для демонстрации как метод будет вызван.
-// не модифицируйте его - возможно это часть другого проекта
 
 #include <iostream>
 #include <fstream>

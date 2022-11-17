@@ -1,5 +1,3 @@
-// this file you need to fill
-// этот файл вам нужно заполнить
 #include "task.h"
 #include <unordered_map>
 #include<thread>
